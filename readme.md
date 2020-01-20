@@ -29,3 +29,9 @@ What do these file types mean?
 
 - Click **Import**, and select **Yes** if prompted to overwrite the existing .raml file
 
+- Turn on **Mocking Service** (slider on top-right corner)
+
+- Test your API.  When complete, turn off **Mocking Service**
+
+- Publish your API to **Exchange** (there's a button for that too :)  Look at the top-right corner)
+
