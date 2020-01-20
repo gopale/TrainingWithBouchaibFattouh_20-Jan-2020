@@ -11,3 +11,21 @@ What do these file types mean?
 - .json or .xml: files used as sample data to build input/output schemas for DataWeave
 
 
+<BR>
+
+## How to import the RAML solution into Anypoint Design Center?
+
+- Download the zip file that represents the RAML specification (no need to unzip it)
+
+- Log into **Anypoit Platform**: https://anypoint.mulesoft.com
+
+- Access **Design Center**.  Click **Create > Specification**
+
+- Provide the name: **American Flights API** (note: if you aready have one by this name, remove/rename the first)
+
+- Once the **API Designer** opens, click on **three-dots** at the top-left and select **Import**
+
+- Click on **Choose File** and point to the zip file you downloaded
+
+- Click **Import**, and select **Yes** if prompted to overwrite the existing .raml file
+
