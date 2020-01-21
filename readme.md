@@ -16,6 +16,17 @@ What do these file types mean?
 ## How to import **Mule Application** solution into Studio?
 
 
+### Step 1:
+
+- Download my **AmericanFlights API Connector** represented as ----> 20e21506-b21d-48ed-811e-431d9b450530.zip (see above in the file list to find it)
+
+- Copy above zip file to your **M2_REPO** directory (M2_REPO is at C:\Users\*<your_userid>*\.m2\repository\ on **Windows** and .m2/repository/ on **Mac**)
+
+- Extract that zip file within the same M2_REPO directory
+
+### Step 2:
+
+
 - Download the solution .jar file from appropriate day's folder
 
 - Start **Anypoint Studio**
