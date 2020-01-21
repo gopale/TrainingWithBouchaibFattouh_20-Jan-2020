@@ -15,6 +15,7 @@ What do these file types mean?
 
 ## How to import **Mule Application** solution into Studio?
 
+
 - Download the solution .jar file from appropriate day's folder
 
 - Start **Anypoint Studio**
@@ -57,4 +58,3 @@ What do these file types mean?
 - Publish your API to **Exchange** (there's a button for that too :)  Look at the top-right corner)
 
 <BR>
-
