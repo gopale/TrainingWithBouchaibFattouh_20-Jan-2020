@@ -12,6 +12,7 @@ What do these file types mean?
 
 
 <BR>
+
 ## How to import **Mule Application** solution into Studio?
 
 - Download the solution .jar file from appropriate day's folder
